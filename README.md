@@ -1,4 +1,4 @@
-# Azure Sentinel Honeypot: A Write-Up
+# Azure Honeypot Write-Up
 
 ## Overview
 
